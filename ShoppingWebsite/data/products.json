@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+		"name": "Smartphone",
+		"categoryId": 1,
+		"price": 499.99,
+		"description": "A high-quality smartphone with the latest features.",
+		"image": "product1.png"
+	},
+	{
+		"id": 2,
+		"name": "Laptop",
+		"categoryId": 1,
+		"price": 899.99,
+		"description": "Powerful laptop for work and entertainment.",
+		"image": "product2.png"
+	},
+	{
+		"id": 3,
+		"name": "T-Shirt",
+		"categoryId": 2,
+		"price": 19.99,
+		"description": "Comfortable cotton t-shirt in various colors.",
+		"image": "product3.png"
+	},
+	{
+		"id": 4,
+		"name": "Throw Pillow",
+		"categoryId": 3,
+		"price": 29.99,
+		"description": "Decorative throw pillow for your home.",
+		"image": "product4.png"
+	},
+	{
+		"id": 5,
+		"name": "Wireless Headphones",
+		"categoryId": 1,
+		"price": 129.99,
+		"description": "High-quality wireless headphones with noise-cancellation.",
+		"image": "product5.png"
+	},
+	{
+		"id": 6,
+		"name": "Jeans",
+		"categoryId": 2,
+		"price": 39.99,
+		"description": "Classic jeans for a casual look.",
+		"image": "product6.png"
+	},
+	{
+		"id": 7,
+		"name": "Desk Lamp",
+		"categoryId": 3,
+		"price": 19.99,
+		"description": "Adjustable desk lamp for your workspace.",
+		"image": "product7.png"
+	},
+	{
+		"id": 8,
+		"name": "Tablet",
+		"categoryId": 1,
+		"price": 299.99,
+		"description": "Versatile tablet for work and play.",
+		"image": "product8.png"
+	},
+	{
+		"id": 9,
+		"name": "Dress Shirt",
+		"categoryId": 2,
+		"price": 29.99,
+		"description": "Stylish dress shirt for formal occasions.",
+		"image": "product9.png"
+	},
+	{
+		"id": 10,
+		"name": "Couch",
+		"categoryId": 3,
+		"price": 499.99,
+		"description": "Comfortable couch for your living room.",
+		"image": "product10.png"
+	}
+]

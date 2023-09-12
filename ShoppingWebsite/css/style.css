@@ -1,0 +1,108 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+p,
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Arial', sans-serif;
+	background-color: #2a2a72; /* Dark blue background */
+	color: #fff; /* White text color for better contrast */
+}
+
+/* Header styling */
+header {
+	background-color: #ff6f61; /* Vibrant red header background */
+	color: #fff;
+	text-align: center;
+	padding: 20px 0;
+}
+
+header h1 {
+	font-size: 2.5rem;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* Navigation styling */
+nav {
+	background-color: #61ff6944; /* Matching red navigation background */
+	color: #fff;
+	text-align: center;
+}
+
+nav ul {
+	list-style: none;
+	padding: 10px 0;
+}
+
+nav ul li {
+	display: inline;
+	margin: 0 20px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+}
+
+/* Hero section styling */
+.hero {
+	background-image: url('images/hero-image.jpg');
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	color: #fff;
+	padding: 100px 0;
+	position: relative;
+}
+
+.hero h2 {
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+}
+
+/* Button styling */
+.btn {
+	display: inline-block;
+	padding: 12px 24px;
+	margin-top: 50px;
+	background-color: #ff6f61; /* Vibrant red button background */
+	color: #fff;
+	text-decoration: none;
+	border: none;
+	border-radius: 5px;
+	font-weight: bold;
+	cursor: pointer;
+	transition: background-color 0.2s;
+}
+
+.btn:hover {
+	background-color: #ff3c32; /* Darker red on hover */
+}
+
+/* Featured products section styling */
+.featured-products {
+	text-align: center;
+	padding: 40px 0;
+}
+
+.featured-products h2 {
+	font-size: 2rem;
+	margin-bottom: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Footer styling */
+footer {
+	background-color: #ff6f61; /* Matching red footer background */
+	color: #fff;
+	text-align: center;
+	padding: 10px 0;
+	font-family: 'Arial', sans-serif;
+}
